@@ -2,12 +2,12 @@ body {
   background: #eee;
   font-family: sans-serif;
   margin: 8px;
+  padding: 8px;
 }
 
 .card {
   width: 400px;
   background: #fff;
-  padding: 8px;
 }
 
 .title {
@@ -18,7 +18,7 @@ body {
 .content {
   background: #e3f4ff;
   margin-top: 16px;
-  margin-bottom: 16;
+  margin-bottom: 16px;
 }
 
 .button-container {

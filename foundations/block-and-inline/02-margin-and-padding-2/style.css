@@ -17,8 +17,8 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin-top: 16px;
-  margin-bottom: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .button-container {
@@ -28,6 +28,8 @@ body {
 
 button {
   background: white;
-  border: 24px solid #eee;
+  border: 1px solid #eee;
   text-align: center;
+  padding-right: 24px;
+  padding-top: 8px;
 }

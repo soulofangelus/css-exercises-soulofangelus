@@ -1,13 +1,13 @@
 body {
   background: #eee;
   font-family: sans-serif;
-  margin: 8px;
-  padding: 8px;
 }
 
 .card {
   width: 400px;
   background: #fff;
+  margin: 8px;
+  padding: 8px;
 }
 
 .title {

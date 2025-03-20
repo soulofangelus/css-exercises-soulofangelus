@@ -40,4 +40,6 @@ button {
   padding-left: 24px;
   padding-bottom: 8px;
   padding-top: 8px;
+  display: block;
+  margin: auto;
 }

@@ -4,7 +4,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: row;
 }
 
 .logo {
@@ -26,4 +25,13 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+}
+
+.right-links {
+  display: flex;
+}
+
+.left-links {
+  display: flex;
+  justify-content:flex-end
 }

@@ -2,7 +2,7 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: center;
+  justify-content:center;
   align-items: center;
 }
 
@@ -12,6 +12,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  display:flex;
 }
 
 ul {
@@ -29,9 +30,11 @@ a {
 
 .right-links {
   display: flex;
+  flex-direction: row;
 }
 
 .left-links {
   display: flex;
-  justify-content:flex-end
+  justify-content:flex-end;
+  flex-direction: row;
 }
